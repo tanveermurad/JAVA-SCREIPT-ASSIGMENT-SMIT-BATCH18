@@ -82,10 +82,10 @@ document.write(" Price of item 2 is " + item2price + "<br>");
 document.write( "Quantity of item 2 is " + item2Quantity + "<br>");
 document.write( "Shipping Charges " + shippingCharges + "<br><br>");
 document.write( "Total cost of your order is " + totalcost );
-
-
-function bold(text) {
-    return "<b>" + text + "</b>";
+ 
+// HE WALA FUNCTION AI SA LIYA HAI
+function bold(text) {     
+    return "<b>" + text + "</b>";  
 }
 
 // Marks Sheet
