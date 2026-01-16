@@ -65,9 +65,16 @@ var index = colorNames.pop[ +prompt("in which index you want to delete color nam
 document.write(index)
 
 //  question 10 skiped because of sort ascending order 
+
+var stdScores = [320,230,480,120];
+std = stdScores.sort();
+
+
+document.write(" <br> score  of student in assending order: "+std);
+
 // question 11 
 
-
+    
 var cities = [Karachi,Lahore,Islamabad,Quetta,Peshawar];
 
 var selectedCities = [2,3];
