@@ -194,3 +194,9 @@ var nationality = "Pakistan"
 
 var lastletter = nationality.slice(7,8)
 document.write("<br> <br>" + lastletter)
+
+
+
+// queston 18
+
+
