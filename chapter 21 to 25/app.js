@@ -199,4 +199,13 @@ document.write("<br> <br>" + lastletter)
 
 // queston 18
 
-
+var string = "The quick brown fox jumps over the lazy dog";
+var string1=string.toLowerCase()
+word = string1.split(" ")
+var count =0
+for(var i=0;i<word.length;++i){
+    if(word[i]=="the"){
+        count++
+    }
+}
+console.log(count)
